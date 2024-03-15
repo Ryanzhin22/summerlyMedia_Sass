@@ -34,6 +34,10 @@ function App() {
         🛍️
         </div>
       </div>
+
+      <section>
+        <h1>We're the best for what you looking for</h1>
+      </section>
       </Container>
     </main>
   )

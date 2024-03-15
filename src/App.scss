@@ -127,6 +127,19 @@
     }
 }
 
+section{
+    width: 100%;
+    height: 20vh;
+    background-color: #da2eb8;
+    border-radius: 10px;
+    h1{
+        background-color: transparent;
+        font-size: 58px;
+        padding: 50px 60px;
+        color: white;
+    }
+}
+
 @keyframes balance{
     0%{
         transform: rotate(20deg);
